@@ -5,4 +5,4 @@
 3. Beri perintah npm install
 4. Beri perintah npm run start untuk menjalankan
 
-Hasil deployment yang sudah ada bisa dilihar di https://cmlabs.surge.sh/
+Hasil deployment yang sudah ada bisa dilihat di https://cmlabs.surge.sh/
